@@ -1,6 +1,8 @@
 # Desenvolvendo Pipeline com Data Factory 🚀
 
-![Imagem do ETL construído com Data Factory Bronze, Silver e Gold](https://github.com/user-attachments/assets/7bd3d780-7f67-4784-a4be-7ebe115b622c)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7bd3d780-7f67-4784-a4be-7ebe115b622c" alt="Imagem do ETL construído com Data Factory Bronze, Silver e Gold"/>
+</div>
 
 ## Badges
 ![Status](https://img.shields.io/badge/Status-Finalized-brightgreen)  
@@ -51,10 +53,13 @@ O pipeline foi desenvolvido, testado e colocado em produção com sucesso.
 - **Extração de Dados (Bronze Layer):** Dados brutos são ingeridos do Azure Data Lake para a primeira camada de processamento.
 - **Transformação (Silver Layer):** Dados são transformados e limpos usando **Databricks**.
 - **Carregamento (Gold Layer):** Dados são carregados para o ambiente de produção, prontos para análise.
-  
+
 **Demonstração:**  
-- A integração entre **Azure Data Factory** e **Databricks** é exemplificada com a construção de um pipeline automatizado.
-- O fluxo de dados é monitorado por **Azure Data Factory**, com registros detalhados de execução.
+A integração entre **Azure Data Factory** e **Databricks** é exemplificada com a construção de um pipeline automatizado.  
+O fluxo de dados é monitorado por **Azure Data Factory**, com registros detalhados de execução.
+
+![ETL DataFactory](https://github.com/user-attachments/assets/380040c2-15fe-46b8-9db2-8c34d9f47300)
+
 
 ---
 
