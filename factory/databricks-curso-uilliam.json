@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-uilliam",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b534434a-50a1-4ea2-9516-3cd08fe46952",
+		"tenantId": "bc8c8eb0-dc1d-49e6-9737-9fb89487dcee"
+	}
+}
